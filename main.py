@@ -59,7 +59,7 @@ for i in range(1,pages+1):
     driver.quit()
     time.sleep(1)
 
-# Brakedown details info into separate values. There is 1 sting that is being split into 4 values 
+# Breakdown details info into separate values. There is 1 string that is being split into 4 values 
 rooms = []
 living_area = []
 price_m = []
